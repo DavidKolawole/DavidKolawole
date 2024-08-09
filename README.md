@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David Kolawole
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning  Python for Data Science and web development.
+- 👀 I’m interested in Data Science and web development.
+- 🌱 I’m currently learning html, CSS and JavaScript for web development and Python for Data Science.
 - 💞️ I’m looking to collaborate on Company Database development...
 - 📫 How to reach me ...
 
